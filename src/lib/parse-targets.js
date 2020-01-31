@@ -41,11 +41,12 @@ module.exports = projectDir => {
       'id',
       'type',
       'goal',
-      'translation_key',  
+      'translation_key',
       'passesIfGroupCount',
       'icon',
       'context',
-      'subtitle_translation_key'
+      'subtitle_translation_key',
+      'aggregate',
     ])),
   };
 };
